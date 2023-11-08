@@ -1,6 +1,6 @@
 import cv2
 import face_recognition
-image_count = 1
+image_count = 0
 
 def main(args):
     image = cv2.imread("images/image.jpg")
